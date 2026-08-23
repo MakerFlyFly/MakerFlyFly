@@ -23,7 +23,7 @@ Interested in **Agent Engineering · RAG · Quant**
 ### 📊 Top Languages
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakerFlyFly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=MakerFlyFly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
   alt="Top Languages"
 />
 
