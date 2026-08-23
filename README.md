@@ -1,7 +1,7 @@
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&vCenter=true&repeat=false&width=600&lines=%3E+Hello%2C+I'm+MakerFly_"
-    alt="Typing SVG"
+  src="https://js-readme-typing-svg.vercel.app/svg?lines=%3E+Hello%2C+I'm+MakerFly&fontFamily=Fira+Code&fontSize=30&color=36BCF7&printSpeed=12&eraseMode=none&cursorStyle=underlined&repeat=false&width=600&height=70&verticalAlign=middle"
+  alt="Typing SVG"
   />
 </p>
 
