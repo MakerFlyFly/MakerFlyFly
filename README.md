@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&vCenter=true&repeat=false&width=600&lines=%3E+Hello%2C+I'm+MakerFly_"
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**MakerFlyFly/MakerFlyFly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Agent Developer
 
-Here are some ideas to get you started:
+Interested in **Agent Engineering · RAG · Quant**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+---
+
+### 🔗 Connect
+
+[![Blog](https://img.shields.io/badge/Blog-MakerFly-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://makerflyfly.github.io)
+[![Email](https://img.shields.io/badge/Email-qwq463001%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qwq463001@gmail.com)
