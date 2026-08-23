@@ -20,6 +20,25 @@ Interested in **Agent Engineering · RAG · Quant**
 
 ---
 
+### 📊 Top Languages
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakerFlyFly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
+
+---
+
+### 📈 GitHub Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MakerFlyFly&theme=react-dark&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
+
+---
+
 ### 🔗 Connect
 
 [![Blog](https://img.shields.io/badge/Blog-MakerFly-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://makerflyfly.github.io)
