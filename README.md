@@ -5,7 +5,7 @@
   />
 </p>
 
-### Agent Developer
+### The Agent Developer
 
 Interested in **Agent Engineering · RAG · Quant**
 
