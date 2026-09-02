@@ -13,6 +13,10 @@ Interested in **Agent Engineering | RAG | Quant**
 
 ### 🧰 Tech Stack
 
+### 🎓 University Student | 🤖 Agent Developer
+
+## 🛠️ Tech Stack
+
 #### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -27,15 +31,20 @@ Interested in **Agent Engineering | RAG | Quant**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Game Engine
+#### Frameworks
 
-![Clickteam Fusion](https://img.shields.io/badge/Clickteam%20Fusion-E31E24?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Infra & Tools
+#### Infra & Dev Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Game Engine
+
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Clickteam Fusion](https://img.shields.io/badge/Clickteam%20Fusion-E31E24?style=for-the-badge)
 
 ---
 
