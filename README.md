@@ -32,7 +32,7 @@ Interested in **Agent Engineering · RAG · Quant**
 ### 📈 GitHub Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MakerFlyFly&theme=react-dark&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MakerFlyFly&theme=react-dark&hide_border=true&area=true&days=31"
   width="100%"
   alt="GitHub Activity Graph"
 />
