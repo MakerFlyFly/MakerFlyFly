@@ -27,7 +27,7 @@ Interested in **Agent Engineering | RAG | Quant**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### Game & Creative
+#### Game Engine
 
 ![Clickteam Fusion](https://img.shields.io/badge/Clickteam%20Fusion-E31E24?style=for-the-badge)
 
