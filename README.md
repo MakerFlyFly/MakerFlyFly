@@ -9,7 +9,7 @@
 
 ### 🎓 University Student | 🤖 Agent Developer
 
-Interested in **Agent Engineering | RAG | Quant**
+  Interested in **Agent Engineering | RAG | Quant**
 
 ---
 
