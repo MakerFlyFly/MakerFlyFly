@@ -13,10 +13,6 @@ Interested in **Agent Engineering | RAG | Quant**
 
 ### 🧰 Tech Stack
 
-### 🎓 University Student | 🤖 Agent Developer
-
-## 🛠️ Tech Stack
-
 #### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
