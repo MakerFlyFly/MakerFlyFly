@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 ### 🎓 University Student | 🤖 Agent Developer
 
 Interested in **Agent Engineering | RAG | Quant**
