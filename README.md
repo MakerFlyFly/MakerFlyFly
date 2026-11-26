@@ -68,4 +68,4 @@
 ### 🔗 Connect
 
 [![Blog](https://img.shields.io/badge/Blog-MakerFly-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://makerflyfly.github.io)
-[![Email](https://img.shields.io/badge/Email-qwq463001%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qwq463001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-qwq463001%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:13977331313@163.com)
